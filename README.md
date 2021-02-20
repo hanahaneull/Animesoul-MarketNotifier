@@ -1,4 +1,8 @@
-![Showcase](https://hana.rape.stream/3ee6Aad.png)
+# ⚠️ DOESN'T WORK ANYMORE ⚠️
+
+⚠️⚠️⚠️⚠️⚠️  
+Animesoul are now encrypting their websocket message. I don't know how to decrypt it. If you know how to decrypt it, feel free contact me on discord (see my [Github profile](https://github.com/hanahaneull)).  
+⚠️⚠️⚠️⚠️⚠️  
 
 # Animesoul Market Notifier
 
